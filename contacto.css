@@ -1,0 +1,80 @@
+.pagina {
+    position:fixed;
+    width: 1400px;
+    height: 900px;
+	align-items:center;
+}
+  
+.logotipo{
+        position: absolute;
+        left: 346px;
+        top: 62px;
+        width: 225px;
+        height: 138px;
+        z-index: 7;
+}
+
+.nav{
+  position: absolute;
+  left: 0px;
+  top: 0px;
+  width: 1440px;
+  height: 4900px;
+  z-index: 53;
+}
+
+.INICIO{
+  font-size: 18px;
+  font-family: "Bebas Neue";
+  color: rgb(0, 0, 0);
+  line-height: 5.136;
+  text-align: center;
+  position: absolute;
+  left: 606px;
+  top: 2197px;
+  width: 50px;
+  height: 13px;
+  z-index: 50;
+}
+
+.PERFIL{
+  font-size: 18px;
+  font-family: "Bebas Neue";
+  color: rgb(0, 0, 0);
+  line-height: 5.136;
+  text-align: center;
+  position: absolute;
+  left: 740px;
+  top: 2196px;
+  width: 55px;
+  height: 13px;
+  z-index: 51;
+}
+
+.CONTACTO{
+  font-size: 18px;
+  font-family: "Bebas Neue";
+  color: rgb(0, 0, 0);
+  line-height: 5.136;
+  text-align: center;
+  position: absolute;
+  left: 997px;
+  top: 2196px;
+  width: 81px;
+  height: 13px;
+  z-index: 53;
+}
+
+.PROYECTOS{
+  font-size: 18px;
+  font-family: "Bebas Neue";
+  color: rgb(0, 0, 0);
+  line-height: 5.136;
+  text-align: center;
+  position: absolute;
+  left: 867px;
+  top: 2196px;
+  width: 96px;
+  height: 13px;
+  z-index: 52;
+}

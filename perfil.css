@@ -1,0 +1,280 @@
+.pagina {
+    position:fixed;
+    width: 1400px;
+    height: 900px;
+	align-items:center;
+}
+  
+.logotipo{
+        position: absolute;
+        left: 346px;
+        top: 62px;
+        width: 225px;
+        height: 138px;
+        z-index: 7;
+      }
+      
+  .CONTACTO {
+    font-size: 18px;
+    font-family: "Bebas Neue";
+    color: rgb(0, 0, 0);
+    line-height: 5.136;
+    text-align: center;
+    text-decoration: none;
+    position: absolute;
+    left: 997.1px;
+    top: 75px;
+    width: 81px;
+    height: 13px;
+    z-index: 11;
+  }
+
+  .PORTAFOLIO {
+    font-size: 18px;
+    font-family: "Bebas Neue";
+    color: rgb(0, 0, 0);
+    line-height: 5.136;
+    text-align: center;
+    text-decoration: none;
+    position: absolute;
+    left: 840px;
+    top: 75px;
+    width: 96px;
+    height: 13px;
+    z-index: 10;
+  }
+
+  .PERFIL {
+    font-size: 18px;
+    font-family: "Bebas Neue";
+    color: rgb(0, 0, 0);
+    line-height: 5.136;
+    text-align: center;
+    text-decoration: none;
+    position: absolute;
+    left: 710px;
+    top: 75px;
+    width: 55px;
+    height: 13px;
+    z-index: 9;
+  }
+
+  .INICIO {
+    font-size: 18px;
+    font-family: "Bebas Neue";
+    color: rgb(0, 0, 0);
+    line-height: 5.136;
+    text-align: center;
+    text-decoration: none;
+    position: absolute;
+    left: 606px;
+    top: 75px;
+    width: 50px;
+    height: 13px;
+    z-index: 8;
+  }
+
+  .perfil-2 {
+  position: absolute;
+  left: 205px;
+  top: 225px;
+  width: 375px;
+  height: 585px;
+}
+
+.hola{
+  font-size: 28px;
+  font-family: "Bebas Neue";
+	letter-spacing: 2.0px;
+  color: rgb(0, 0, 0);
+  line-height: 3.317;
+  text-align: left;
+  -moz-transform: matrix( 1.54276728225551,0,0,1.54276728225551,0,0);
+  -webkit-transform: matrix( 1.54276728225551,0,0,1.54276728225551,0,0);
+  -ms-transform: matrix( 1.54276728225551,0,0,1.54276728225551,0,0);
+  position: absolute;
+  left: 670px;
+  top: 180px;
+  width: 230px;
+  height: 20px;
+}
+
+.descripcion {
+  font-size: 18px;
+  font-family: "Montserrat";
+  color: rgb(0, 0, 0);
+  line-height: 1.333;
+  position: absolute;
+  left: 606px;
+  top: 280px;
+  width: 630px;
+  height: 186px;
+}
+
+.diseno{
+  font-size: 19px;
+  font-family: "Bebas Neue";
+  color: rgb(0, 0, 0);
+  line-height: 4.8rem;
+  text-align: left;
+  -moz-transform: matrix( 1.54276728225551,0,0,1.54276728225551,0,0);
+  -webkit-transform: matrix( 1.54276728225551,0,0,1.54276728225551,0,0);
+  -ms-transform: matrix( 1.54276728225551,0,0,1.54276728225551,0,0);
+  position:absolute;
+ letter-spacing: 1.5px;
+  left: 640px;
+  top: 450px;
+  width: 135px;
+  height: 17px;
+}
+
+.areas{
+  font-size: 18px;
+  font-family: "Montserrat";
+  color: rgb(0, 0, 0);
+  line-height: 1.333;
+  position: absolute;
+  left: 602px;
+  top: 525px;
+  width: 246px;
+  height: 42px;
+}
+
+.lista{
+  font-size: 18px;
+  font-family: "Montserrat";
+  color: rgb(0, 0, 0);
+  line-height: 1.5rem;
+  position:absolute;
+  left: 590px;
+  top: 575px;
+  width: 196px;
+  height: 161px;
+}
+
+.software{
+  font-size: 19.446px;
+  font-family: "Bebas Neue";
+  color: rgb(0, 0, 0);
+  line-height: 4.754;
+  text-align: left;
+  -moz-transform: matrix( 1.54276728225551,0,0,1.54276728225551,0,0);
+  -webkit-transform: matrix( 1.54276728225551,0,0,1.54276728225551,0,0);
+  -ms-transform: matrix( 1.54276728225551,0,0,1.54276728225551,0,0);
+  position: absolute;
+  left: 1000px;
+  top: 435px;
+  width: 84px;
+  height: 14px;
+  letter-spacing: 1.5px;
+}
+
+.software2{
+  letter-spacing: 1.0px;
+  font-size: 18px;
+  font-family: "Montserrat";
+  color: rgb(0, 0, 0);
+  line-height: 1.333;
+  position: absolute;
+  left: 976px;
+  top: 525px;
+  width: 231px;
+  height: 42px;
+}
+
+.ilustrator{
+  position: absolute;
+  left: 976px;
+  top: 585px;
+  width: 50px;
+  height: 50px;
+}
+
+.ilustrator2{
+  position: absolute;
+  left: 1040px;
+  top: 605px;
+  width: 70px;
+  height: 9px;
+}
+
+.photoshop{
+  position: absolute;
+  left: 978px;
+  top: 650px;
+  width: 50px;
+  height: 50px;
+}
+
+.photoshop2{
+  position: absolute;
+  left: 1040px;
+  top: 670px;
+  width: 70px;
+  height: 9px;
+}
+
+.premier{
+  position: absolute;
+  left: 978px;
+  top: 715px;
+  width: 50px;
+  height: 50px;
+}
+
+.premier2{
+  position: absolute;
+  left: 1040px;
+  top: 735px;
+  width: 70px;
+  height: 11px;
+}
+
+.design{
+  position: absolute;
+  left: 1150px;
+  top: 586px;
+  width: 50px;
+  height: 50px;
+}
+
+.design2{
+  position: absolute;
+  left: 1215px;
+  top: 605px;
+  width: 69px;
+  height: 10px;
+}
+
+.lightroom{
+  position: absolute;
+  left: 1150px;
+  top: 650px;
+  width: 50px;
+  height: 50px;
+}
+
+.lightroom2{
+  position: absolute;
+  left: 1215px;
+  top: 669px;
+  width: 69px;
+  height: 9px;
+}
+
+.coreldraw{
+  position: absolute;
+  left: 1150px;
+  top: 718px;
+  width: 50px;
+  height: 50px;
+}
+
+.coreldraw2{
+  position: absolute;
+  left: 1215px;
+  top: 734px;
+  width: 70px;
+  height: 10px;
+}
+

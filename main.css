@@ -1,0 +1,134 @@
+@import url("perfil.css");
+@import url("portafolio.css");
+@import url("contacto.css");
+
+.pagina {
+    position:absolute;
+    width: 1400px;
+    height: 900px;
+}
+
+  .texto {
+    font-size: 40px;
+    font-family: "Bebas Neue";
+    color: rgb(0, 0, 0);
+    text-align: left;
+    position: absolute;
+    left: 345.859px;
+    top: 600px;
+    width: 468px;
+    height: 28px;
+    z-index: 14;
+    letter-spacing: 1.2px;
+  }
+  
+.logotipo{
+    position:absolute;
+    left: 346px;
+    top: 65px;
+    width: 225px;
+    height: 137px;
+  }
+  
+  .CONTACTO {
+    font-size: 18px;
+    font-family: "Bebas Neue";
+    color: rgb(0, 0, 0);
+    line-height: 5.136;
+    text-align: center;
+    text-decoration: none;
+    position: absolute;
+    left: 997.1px;
+    top: 75px;
+    width: 81px;
+    height: 13px;
+    z-index: 11;
+  }
+  .PORTAFOLIO {
+    font-size: 18px;
+    font-family: "Bebas Neue";
+    color: rgb(0, 0, 0);
+    line-height: 5.136;
+    text-align: center;
+    text-decoration: none;
+    position: absolute;
+    left: 840px;
+    top: 75px;
+    width: 96px;
+    height: 13px;
+    z-index: 10;
+  }
+  .PERFIL {
+    font-size: 18px;
+    font-family: "Bebas Neue";
+    color: rgb(0, 0, 0);
+    line-height: 5.136;
+    text-align: center;
+    text-decoration: none;
+    position: absolute;
+    left: 710px;
+    top: 75px;
+    width: 55px;
+    height: 13px;
+    z-index: 9;
+  }
+  .INICIO {
+    font-size: 18px;
+    font-family: "Bebas Neue";
+    color: rgb(0, 0, 0);
+    line-height: 5.136;
+    text-align: center;
+    text-decoration: none;
+    position: absolute;
+    left: 606px;
+    top: 75px;
+    width: 50px;
+    height: 13px;
+    z-index: 8;
+  }
+
+  .blanco {
+        position: absolute;
+        left: 500px;
+        top: -104px;
+        width: 877px;
+        height: 1060px;
+        z-index: 30;
+      }
+      
+      .Rectangulo_5 {
+        position:absolute;
+        left: 700px;
+        top: -8px;
+        width: 708px;
+        height: 775px;
+        z-index: 3;
+        flex-direction:column;
+      }
+      
+  .kassandra {
+    position: absolute;
+    left: 616px;
+    top: 204px;
+    width: 610px;
+    height: 610px;
+    z-index: 4;
+  }
+
+  .logo2 {
+    position: absolute;
+    left: 344px;
+    top: 451px;
+    width: 585px;
+    height: 144px;
+    z-index: 13;
+  }
+
+.GROUP_1{
+  position: absolute;
+  left: 0px;
+  top: 0px;
+  width: 1440px;
+  height: 4900px;
+  z-index: 12;
+}
